@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "pack_id": "chrislo-survival",
+  "pack_name": "chrislo survival",
+  "pack_version": "1.0.0",
+  "minecraft_version": "1.21.4",
+  "fabric_loader_version": "0.19.2",
+  "description": "Supervivencia con performance mods",
+  "mods": [
+    {
+      "project_id": "P7dR8mSH",
+      "version_id": "p96k10UR",
+      "filename": "fabric-api-0.119.4+1.21.4.jar",
+      "sha1": "1c7871b6af04edc8b8f0dbad12606d67f6118a11",
+      "side": "both"
+    },
+    {
+      "project_id": "AANobbMI",
+      "version_id": "c3YkZvne",
+      "filename": "sodium-fabric-0.6.13+mc1.21.4.jar",
+      "sha1": "c881d2db971207c396b5629632437f1520c0c478",
+      "side": "client"
+    }
+  ]
+}
